@@ -12,6 +12,6 @@
 The goal is to demonstrate your ability to conduct real-world exploratory data analysis (EDA) 
 using concepts from the Descriptive Statistics for Data Science course. 
 
-### Chosen Dataset: 
+### Chosen Dataset: ai4i2020 predictive maintenance dataset
 ### Chosen Dataset Link: https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset
 
